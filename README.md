@@ -6,7 +6,7 @@
 i used the authorization automation code from my other repository: 
 https://github.com/assafsauer/Istio-Security-Mesh-Automated.
 i added the code to the k8s-manifest folder , so ArgoCD can track changes in the manifest 
-and deploy the policies autmaticly (based commit).
+and deploy the policies autmaticly (based on code commit).
 
 so how does it works ?
 
