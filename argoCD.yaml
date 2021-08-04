@@ -1,0 +1,11 @@
+project: default
+source:
+  repoURL: 'https://github.com/assafsauer/argocd-1.git'
+  path: k8s-manifest
+  targetRevision: HEAD
+  directory:
+    recurse: true
+    jsonnet: {}
+destination:
+  server: 'https://kubernetes.default.svc'
+  namespace: hipster
