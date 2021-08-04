@@ -1,0 +1,14 @@
+apiVersion: security.istio.io/v1beta1
+kind: AuthorizationPolicy
+metadata:
+  name: auth.checkoutservice8
+spec:
+  selector:
+    matchLabels:
+      app: checkoutservice
+  action: ALLOW 
+  rules:
+  - to:
+    - operation:
+        methods: ["POST"]
+        paths: ["/hipstershop.CheckoutService/*"]

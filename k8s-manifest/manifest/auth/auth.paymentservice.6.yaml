@@ -1,0 +1,14 @@
+apiVersion: security.istio.io/v1beta1
+kind: AuthorizationPolicy
+metadata:
+  name: auth.paymentservice6
+spec:
+  selector:
+    matchLabels:
+      app: paymentservice
+  action: ALLOW 
+  rules:
+  - to:
+    - operation:
+        methods: ["POST"]
+        paths: ["/hipstershop.PaymentService/*"]

@@ -1,0 +1,14 @@
+apiVersion: security.istio.io/v1beta1
+kind: AuthorizationPolicy
+metadata:
+  name: auth.shippingservice5
+spec:
+  selector:
+    matchLabels:
+      app: shippingservice
+  action: ALLOW 
+  rules:
+  - to:
+    - operation:
+        methods: ["POST"]
+        paths: ["/hipstershop.ShippingService/*"]
