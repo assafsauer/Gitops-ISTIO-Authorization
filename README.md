@@ -20,11 +20,7 @@ argo CD will automaticly deploy the authorization policies  in the specified tar
 
 ![image](https://user-images.githubusercontent.com/22165556/128159514-bf37e9e6-14a6-44a6-9a8e-20e8f402213e.png)
 
-    <iframe width="560" height="315"
-src="https://youtu.be/EmvpHcItqPQ 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Little red riding hood](http://i.imgur.com/EmvpHcItqPQ.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 https://youtu.be/EmvpHcItqPQ
 
