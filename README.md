@@ -1,6 +1,6 @@
 # Continues authorization polIcies with argo CD.
 
-####  The idea behind this respositroy is to outlines a continuous delivery approach that combines together Gitops and Devsecops that results as microsegmentaiton for Microservices. 
+####  The idea behind this respositroy is to outlines a continuous delivery approach that combines together Gitops and Devsecops that results as automating authorization polIcies for all services in a namespace.
 
 ```diff
 i used the authorization automation code from my other repository: 
