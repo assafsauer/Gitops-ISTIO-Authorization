@@ -1,6 +1,6 @@
 project: default
 source:
-  repoURL: 'https://github.com/assafsauer/argocd-1.git'
+  repoURL: 'https://github.com/assafsauer/Gitops-Mesh-Authorization.git'
   path: k8s-manifest
   targetRevision: HEAD
   directory:
