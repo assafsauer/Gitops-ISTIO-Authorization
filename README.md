@@ -9,7 +9,8 @@ i copied the code to the k8s-manifest folder , so ArgoCD can track changes in th
 and deploy the policies autmaticly ,based on code commit.
 
 ```
-![image](https://user-images.githubusercontent.com/22165556/128327771-e1d3aa51-68f9-429b-907d-81db6d1b583f.png=250x250)
+![image](https://user-images.githubusercontent.com/22165556/128328734-a030c255-1727-4d89-adba-779b74365940.png)
+
 
 ```diff
 
