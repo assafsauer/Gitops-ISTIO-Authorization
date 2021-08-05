@@ -8,6 +8,10 @@ https://github.com/assafsauer/Istio-Security-Mesh-Automated.
 i copied the code to the k8s-manifest folder , so ArgoCD can track changes in the manifest 
 and deploy the policies autmaticly ,based on code commit.
 
+
+![image](https://user-images.githubusercontent.com/22165556/128327718-b4d81152-e197-4b4c-ae19-dbce84c0707a.png)
+
+
 so how does it works ?
 
 1) Developer commit/push code ,  CI/CD is being triggered 
