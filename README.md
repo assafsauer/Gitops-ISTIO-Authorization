@@ -12,6 +12,8 @@ and deploy the policies autmaticly ,based on code commit.
 ![image](https://user-images.githubusercontent.com/22165556/128328734-a030c255-1727-4d89-adba-779b74365940.png)
 
 
+
+
 ```diff
 
 so how does it works ?
@@ -23,6 +25,7 @@ so how does it works ?
 6) Argo CD track updates to branches to a specific version of manifests at a Git commit. 
 argo CD will automaticly deploy the authorization policies  in the specified target environments/namespec. 
 ```
+
 
 ![image](https://user-images.githubusercontent.com/22165556/128159514-bf37e9e6-14a6-44a6-9a8e-20e8f402213e.png)
 
