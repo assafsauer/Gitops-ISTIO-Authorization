@@ -29,7 +29,7 @@ argo CD will automaticly deploy the authorizationpolicies in the specified targe
 
 ![image](https://user-images.githubusercontent.com/22165556/128159514-bf37e9e6-14a6-44a6-9a8e-20e8f402213e.png)
 
- I added a video that shows in more details the configuration steps.
+ I added a video that shows in more details the configuration/steps.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c3GgOXPz3fQ/0.jpg)](https://www.youtube.com/watch?v=c3GgOXPz3fQ)
 
