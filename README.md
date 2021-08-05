@@ -21,4 +21,8 @@ argo CD will automaticly deploy the authorization policies  in the specified tar
 ![image](https://user-images.githubusercontent.com/22165556/128159514-bf37e9e6-14a6-44a6-9a8e-20e8f402213e.png)
 
 
-! <iframe width="560" height="315" src="https://www.youtube.com/embed/EmvpHcItqPQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EmvpHcItqPQ/0.jpg)](https://www.youtube.com/watch?v=EmvpHcItqPQ)
+
+
+
+https://youtu.be/EmvpHcItqPQ
