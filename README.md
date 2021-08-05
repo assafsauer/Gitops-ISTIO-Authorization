@@ -19,11 +19,11 @@ and deploy the policies autmaticly ,based on code commit.
 so how does it works ?
 
 1) Developer commit/push code ,  CI/CD is being triggered 
-3) as part of the continues security , Developer will execute the auth-main.py 
+3) as part of the continues security process , Developer will execute the auth-main.py 
 4) the authorization policies being created in the /k8s-manifest/manifest/auth folder (argoCD path folder).
 5) Developer commit/push 
 6) Argo CD track updates to branches to a specific version of manifests at a Git commit. 
-argo CD will automaticly deploy the authorization policies  in the specified target environments/namespec. 
+argo CD will automaticly deploy the authorizationpolicies in the specified target environments/namespece. 
 ```
 
 
