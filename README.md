@@ -3,10 +3,8 @@
 ####  The idea behind this respositroy is to outlines a continuous delivery approach that combines together Gitops and Devsecops that results as automation of ISTIO authorization polIcies for each microservice in a namespace.
 
 ```diff
-i used the authorization automation code from my Istio-Security-Mesh-Automated repository: 
-https://github.com/assafsauer/Istio-Security-Mesh-Automated.
-i copied the code to the k8s-manifest folder , so ArgoCD can track changes in the manifest 
-and deploy the policies autmaticly ,based on code commit.
+i copied my authorization automation code to the k8s-manifest folder , so ArgoCD can track changes in the manifest 
+and deploy the policies autmaticly ,based on code commit. (https://github.com/assafsauer/Istio-Security-Mesh-Automated). 
 
 
 so how does it works ?
