@@ -1,6 +1,6 @@
 project: default
 source:
-  repoURL: 'https://github.com/assafsauer/Gitops-Mesh-Authorization.git'
+  repoURL: 'https://github.com/assafsauer/Gitops-ISTIO-Authorization.git'
   path: k8s-manifest
   targetRevision: HEAD
   directory:
